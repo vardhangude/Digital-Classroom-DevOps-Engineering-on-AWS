@@ -6,6 +6,8 @@ This project demonstrates how to provision and manage AWS infrastructure using *
 
 The infrastructure is defined in a YAML template and deployed as a CloudFormation Stack. The project also demonstrates **Infrastructure as Code (IaC)** best practices including stack creation, drift detection, and stack updates using Change Sets.
 
+
+<img width="707" height="362" alt="image" src="https://github.com/user-attachments/assets/922d41ad-55fb-462a-9769-6fbb1dd40fd4" />
 ---
 
 ## 🏗️ Architecture
