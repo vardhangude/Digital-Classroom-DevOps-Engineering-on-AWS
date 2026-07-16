@@ -299,8 +299,6 @@ aws deploy create-deployment
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here after completing the lab.)*
-
 - EC2 Instances
 - CodeDeploy Application
 - Deployment Group
